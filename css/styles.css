@@ -80,7 +80,7 @@
 }
 
 .result__summary {
-    padding: 38px 40px 46px;
+    padding: 32px 40px 46px;
     display: flex;
     flex-direction: column;
     row-gap: 16px;
